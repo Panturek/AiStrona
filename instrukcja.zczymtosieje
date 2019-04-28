@@ -1,6 +1,8 @@
 Stawiane na XAMPPie, na XAMPPie działało
 DBMS: PHPMyAdmin
 baza danych aiprojekt.sql do zaimportowania se
+w phpmyadmin trza ją wyeksportować do bazy danych aiprojekt
+a jakby ją inaczej kto nazwał, to zmienić wartość $dbname w pliku connect.php
 
 Hasła do użytkowników: nie pamiętam
 do pierwszego qwerty123, do reszty też może działać a jak nie to asdfg1234 albo coś takiego
