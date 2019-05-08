@@ -4,9 +4,9 @@ baza danych aiprojekt.sql do zaimportowania se
 w phpmyadmin trza ją wyeksportować do bazy danych aiprojekt
 a jakby ją inaczej kto nazwał, to zmienić wartość $dbname w pliku connect.php
 
-Hasła do użytkowników: nie pamiętam
-do pierwszego qwerty123, do reszty też może działać a jak nie to asdfg1234 albo coś takiego
-Strona nie zawiera mechanizmu żadnych banów ani dzwonienia do mamusi jak hasło się nie zgadza 4 razy
+Hasła do użytkowników:
+adam qwerty123
+wuja qwerty123
 
-UWAGA! PROJEKT NIE JEST PISANY W CELU UZYSKANIA WYSOKIEJ OCENY, KTÓRA NIEWĄTPLIWIE ZA NIEGO WPADNIE!
-Mi się testu nie chce pisać, a że mi się dobrze pisało, to ganc spoko wyszło 8)
+
+UWAGA! PROJEKT NIE JEST PISANY W CELU UZYSKANIA WYSOKIEJ OCENY, KTÓRA I TAK NIEWĄTPLIWIE ZA NIEGO WPADNIE!
